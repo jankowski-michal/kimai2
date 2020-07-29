@@ -184,7 +184,7 @@
                 <source>menu.doctor</source>
                 <target>Doctor</target>
             </trans-unit>
-            
+
             <!--
               Error templates
             -->
@@ -528,6 +528,10 @@
             <trans-unit id="label.timesheet.daily_stats">
                 <source>label.timesheet.daily_stats</source>
                 <target>Show daily stats in timesheet</target>
+            </trans-unit>
+            <trans-unit id="label.timesheet.timesheet_summary">
+                <source>label.timesheet.timesheet_summary</source>
+                <target>Show summary in timesheet</target>
             </trans-unit>
             <trans-unit id="label.timesheet.export_decimal">
                 <source>label.timesheet.export_decimal</source>
