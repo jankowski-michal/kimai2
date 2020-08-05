@@ -417,6 +417,10 @@
                 <source>label.timesheet.daily_stats</source>
                 <target state="translated">Visa daglig statistik i tidtabell</target>
             </trans-unit>
+            <trans-unit id="label.timesheet.timesheet_summary">
+                <source>label.timesheet.timesheet_summary</source>
+                <target>Visa sammanfattning i tidtabellen</target>
+            </trans-unit>
             <trans-unit id="label.now">
                 <source>label.now</source>
                 <target state="translated">aktuell tid</target>
@@ -447,7 +451,7 @@
             </trans-unit>
             <trans-unit id="admin_project.short_stats">
                 <source>admin_project.short_stats</source>
-                <target state="translated">Projektet %project% för kunden %customer% har %activities% för närvarande %activities% 
+                <target state="translated">Projektet %project% för kunden %customer% har %activities% för närvarande %activities%
                      aktiviteter och %records% time-records, som räknas upp till totalt %duration%.
                 </target>
             </trans-unit>
@@ -780,7 +784,7 @@ För närvarande har %user% användare %records% tidsrekord som räknas upp till
                 <target state="translated">Bekräftelse: Datum / Kunden namn / Signatur</target>
             </trans-unit>
             <trans-unit id="invoice.total_working_time">
-                <source>invoice.total_working_time</source>            
+                <source>invoice.total_working_time</source>
                 <target state="translated">Total varaktighet</target>
             </trans-unit>
             <trans-unit id="label.orderNumber">
